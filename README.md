@@ -2,7 +2,7 @@
 
 v1.2 (01 Gennaio 2024) di Emanuele Seminara
 
-[Per la versione inglese Clicca Qui](https://github.com/EmanueleSeminara/LaTeX_resume/tree/ITA)
+[Per la versione inglese Clicca Qui](https://github.com/EmanueleSeminara/LaTeX_resume/tree/ENG)
 ## Introduzione
 
 Questo repository è pensato per te, amante di LaTeX, per darti un'idea interessante per un curriculum vitae.
