@@ -1,6 +1,8 @@
 # [![emanueleseminara.it](https://github.com/EmanueleSeminara/images/blob/main/logo_e_20x20.png?raw=true)](https://emanueleseminara.it/) AltaCV - One Page LaTeX CV [![emanueleseminara.it](https://github.com/EmanueleSeminara/images/blob/main/logo_e_20x20.png?raw=true)](https://emanueleseminara.it/)
 
 v1.2 (01 Genuary 2024) by Emanuele Seminara
+
+[For the italian version Click Here](https://github.com/EmanueleSeminara/LaTeX_resume/tree/ITA)
 ## Intro
 
 This repo is to give you, LaTeX lover, a cool idea for a resume.
