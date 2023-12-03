@@ -58,4 +58,4 @@ Dopo aver caricato i file, dovrai solo modificare il contenuto dei file per scri
 Il codice è qui per essere letto, modificato, adattato, riutilizzato, gratuitamente, fai quello che vuoi!
 Tuttavia, se desideri offrirmi un caffè o una birra, allora cin cin! =D
 
-[![QR](https://github.com/EmanueleSeminara/images/blob/main/bmc_qr_200x200.png?raw=true)](https://www.buymeacoffee.com/emanueleseminara)
+[![QR](https://github.com/EmanueleSeminara/images/blob/main/bmc-button_small2.png?raw=true)](https://www.buymeacoffee.com/emanueleseminara)
