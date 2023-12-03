@@ -58,4 +58,4 @@ It is really intuitive, in case you need more info on what to modify you can che
 The code is here for you to be read, edited, modified, reused, for free, do whatever you want!
 However, if you'd like to offer me a coffee or a beer, then cheers! =D
 
-[![QR](https://github.com/EmanueleSeminara/images/blob/main/bmc_qr_200x200.png?raw=true)](https://www.buymeacoffee.com/emanueleseminara)
+[![QR](https://github.com/EmanueleSeminara/images/blob/main/bmc-button_small2.png?raw=true)](https://www.buymeacoffee.com/emanueleseminara)
