@@ -19,7 +19,7 @@ You can also find me on:
 [![emanueleseminara.it](https://github.com/EmanueleSeminara/images/blob/main/pulsante_tech_fusion_20x20.png?raw=true)](https://tech-fusion.it/)
 
 ## Resume Look
-![Screenshot 2023-10-07 alle 15 01 09](/ENG/Emanuele_Seminara_CV_ENG.jpg)
+![Screenshot 2023-10-07 alle 15 01 09](Emanuele_Seminara_CV_ENG.jpg)
 
 ## Editor
 In case you don't know LaTeX, don't worry, you can use [Overleaf](https://overleaf.com), it is a cool online free editor,
