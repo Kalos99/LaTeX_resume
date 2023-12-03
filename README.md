@@ -1,6 +1,8 @@
 # [![emanueleseminara.it](https://github.com/EmanueleSeminara/images/blob/main/logo_e_20x20.png?raw=true)](https://emanueleseminara.it/) AltaCV - CV in LaTeX a Singola Pagina [![emanueleseminara.it](https://github.com/EmanueleSeminara/images/blob/main/logo_e_20x20.png?raw=true)](https://emanueleseminara.it/)
 
 v1.2 (01 Gennaio 2024) di Emanuele Seminara
+
+[Per la versione inglese Clicca Qui](https://github.com/EmanueleSeminara/LaTeX_resume/tree/ITA)
 ## Introduzione
 
 Questo repository è pensato per te, amante di LaTeX, per darti un'idea interessante per un curriculum vitae.
