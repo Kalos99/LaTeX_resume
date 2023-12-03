@@ -1,17 +1,23 @@
-# AltaCV, LaTeX CV/Résumé class
+# [![emanueleseminara.it](https://github.com/EmanueleSeminara/images/blob/main/logo_e_20x20.png?raw=true)](https://emanueleseminara.it/) AltaCV - One Page LaTeX CV [![emanueleseminara.it](https://github.com/EmanueleSeminara/images/blob/main/logo_e_20x20.png?raw=true)](https://emanueleseminara.it/)
 
-v1.1 (25 July 2023), by Marco Marini (poligeniushelp@gmail.com)
-
+v1.2 (01 Genuary 2024) by Emanuele Seminara
 ## Intro
 
 This repo is to give you, LaTeX lover, a cool idea for a resume.
 You can use this template to create in few minutes your own personal cv.
 
 Below you can fine a selection of point to follow to personalize your cv, have fun.
-For any question you can write me at [poligeniushelp@gmail.com](mailto:poligeniushelp@gmail.com).
+For any question you can write me at [seminara.emanuele96@gmail.com](mailto:seminara.emanuele96@gmail.com).
+
+You can also find me on:
+
+[![emanueleseminara.it](https://github.com/EmanueleSeminara/images/blob/main/LinkedIn_icon_2x20.png?raw=true)](https://www.linkedin.com/in/emanuele-seminara/)
+[![emanueleseminara.it](https://github.com/EmanueleSeminara/images/blob/main/Instagram_icon_20x20.png?raw=true)](https://www.instagram.com/emanuele_seminara/)
+[![emanueleseminara.it](https://github.com/EmanueleSeminara/images/blob/main/pulsante_e_20x20.png?raw=true)](https://www.instagram.com/emanuele_seminara/)
+[![emanueleseminara.it](https://github.com/EmanueleSeminara/images/blob/main/pulsante_tech_fusion_20x20.png?raw=true)](https://tech-fusion.it/)
 
 ## Resume Look
-![Screenshot 2023-10-07 alle 15 01 09](https://github.com/poligenius/LaTeX_resume/assets/48245313/8e26f6ce-0f2d-4018-98ce-39d80d6e98db)
+![Screenshot 2023-10-07 alle 15 01 09](/ENG/Emanuele_Seminara_CV_ENG.jpg)
 
 ## Editor
 In case you don't know LaTeX, don't worry, you can use [Overleaf](https://overleaf.com), it is a cool online free editor,
@@ -28,7 +34,7 @@ To have the files on your pc just clone this repo:
 2) clone the repo
 
    ```bash
-   git clone https://github.com/poligenius/LaTeX_resume.git
+   git clone https://github.com/EmanueleSeminara/LaTeX_resume.git
    ```
 
 After you have loaded the files you will need only to change the content of the files in order to write whatever you want in your resume.
@@ -46,6 +52,8 @@ It is really intuitive, in case you need more info on what to modify you can che
 * However if you're using `academicons`, you _must_ use either XeLaTeX or LuaLaTeX. If the doc then compiles but the icons don't show up in the output PDF, try compiling with LuaLaTeX instead.
 * The samples here use the [Lato](http://www.latofonts.com/lato-free-fonts/) font.
 
-## Donations
+## Donations [![Screen Grafico Entrate Uscite](https://github.com/EmanueleSeminara/images/blob/main/buy-me-a-coffee-logo-20x29.png?raw=true)](https://www.buymeacoffee.com/emanueleseminara)
 The code is here for you to be read, edited, modified, reused, for free, do whatever you want!
-However, if you'd like to [offer me](https://paypal.me/MarcoMariniING?country.x=IT&locale.x=it_IT) a coffee or a beer, then cheers! xD
+However, if you'd like to offer me a coffee or a beer, then cheers! =D
+
+[![QR](https://github.com/EmanueleSeminara/images/blob/main/bmc_qr_200x200.png?raw=true)](https://www.buymeacoffee.com/emanueleseminara)
