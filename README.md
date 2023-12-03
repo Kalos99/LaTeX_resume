@@ -1,59 +1,59 @@
-# [![emanueleseminara.it](https://github.com/EmanueleSeminara/images/blob/main/logo_e_20x20.png?raw=true)](https://emanueleseminara.it/) AltaCV - One Page LaTeX CV [![emanueleseminara.it](https://github.com/EmanueleSeminara/images/blob/main/logo_e_20x20.png?raw=true)](https://emanueleseminara.it/)
+# [![emanueleseminara.it](https://github.com/EmanueleSeminara/images/blob/main/logo_e_20x20.png?raw=true)](https://emanueleseminara.it/) AltaCV - CV in LaTeX a Singola Pagina [![emanueleseminara.it](https://github.com/EmanueleSeminara/images/blob/main/logo_e_20x20.png?raw=true)](https://emanueleseminara.it/)
 
-v1.2 (01 Genuary 2024) by Emanuele Seminara
-## Intro
+v1.2 (01 Gennaio 2024) di Emanuele Seminara
+## Introduzione
 
-This repo is to give you, LaTeX lover, a cool idea for a resume.
-You can use this template to create in few minutes your own personal cv.
+Questo repository è pensato per te, amante di LaTeX, per darti un'idea interessante per un curriculum vitae.
+Puoi utilizzare questo modello per creare in pochi minuti il tuo curriculum personale.
 
-Below you can fine a selection of point to follow to personalize your cv, have fun.
-For any question you can write me at [seminara.emanuele96@gmail.com](mailto:seminara.emanuele96@gmail.com).
+Di seguito troverai una selezione di passi da seguire per personalizzare il tuo curriculum, divertiti.
+Per qualsiasi domanda puoi scrivermi a [seminara.emanuele96@gmail.com](mailto:seminara.emanuele96@gmail.com).
 
-You can also find me on:
+Puoi trovarmi anche su:
 
 [![emanueleseminara.it](https://github.com/EmanueleSeminara/images/blob/main/LinkedIn_icon_2x20.png?raw=true)](https://www.linkedin.com/in/emanuele-seminara/)
 [![emanueleseminara.it](https://github.com/EmanueleSeminara/images/blob/main/Instagram_icon_20x20.png?raw=true)](https://www.instagram.com/emanuele_seminara/)
 [![emanueleseminara.it](https://github.com/EmanueleSeminara/images/blob/main/pulsante_e_20x20.png?raw=true)](https://www.instagram.com/emanuele_seminara/)
 [![emanueleseminara.it](https://github.com/EmanueleSeminara/images/blob/main/pulsante_tech_fusion_20x20.png?raw=true)](https://tech-fusion.it/)
 
-## Resume Look
-![Screenshot 2023-10-07 alle 15 01 09](/ENG/Emanuele_Seminara_CV_ENG.jpg)
+## Aspetto del Curriculum
+![Screenshot 2023-10-07 alle 15 01 09](./Emanuele_Seminara_CV_ITA.jpg)
 
 ## Editor
-In case you don't know LaTeX, don't worry, you can use [Overleaf](https://overleaf.com), it is a cool online free editor,
-just create an account, create a new project and load the files inside this repo.
+Nel caso tu non conosca LaTeX, non preoccuparti, puoi utilizzare [Overleaf](https://overleaf.com), un editor online gratuito e fantastico,
+basta creare un account, avviare un nuovo progetto e caricare i file di questo repository.
 
-To have the files on your pc just clone this repo:
+Per avere i file sul tuo PC, clona semplicemente questo repository:
 
-1) select the location where you want to store the file in your terminal
+1) Seleziona la posizione in cui desideri memorizzare il file nel tuo terminale
 
    ```bash
-   cd Projects/resume
+   cd Progetti/curriculum
    ```
 
-2) clone the repo
+2) Clona il repository
 
    ```bash
    git clone https://github.com/EmanueleSeminara/LaTeX_resume.git
    ```
 
-After you have loaded the files you will need only to change the content of the files in order to write whatever you want in your resume.
-It is really intuitive, in case you need more info on what to modify you can check the following sections.
+Dopo aver caricato i file, dovrai solo modificare il contenuto dei file per scrivere ciò che desideri nel tuo curriculum.
+È davvero intuitivo, nel caso tu abbia bisogno di ulteriori informazioni su cosa modificare, puoi consultare le sezioni seguenti.
 
-## Requirements and Compilation
+## Requisiti e Compilazione
 
-* At line 76 of main you can insert your personal info
-* page1sidebar.tex contains the code for the right part of the cv
-* remember to substitute the image with your photo and use a png format
-* If you would like to change the colors go at line 48 of main.tex
-* AltaCV uses [`fontawesome`](http://www.ctan.org/pkg/fontawesome) and [`academicons`](http://www.ctan.org/pkg/academicons); they're included in both TeX Live 2016 and MikTeX 2.9.
-* Loading `academicons` is optional: enable it by adding the `academicons` option to `\documentclass`.
-* Can now be compiled with pdflatex, XeLaTeX and LuaLaTeX!
-* However if you're using `academicons`, you _must_ use either XeLaTeX or LuaLaTeX. If the doc then compiles but the icons don't show up in the output PDF, try compiling with LuaLaTeX instead.
-* The samples here use the [Lato](http://www.latofonts.com/lato-free-fonts/) font.
+* Alla riga 76 di main.tex puoi inserire le tue informazioni personali.
+* page1sidebar.tex contiene il codice per la parte destra del curriculum.
+* Ricorda di sostituire l'immagine con la tua foto e utilizza un formato png.
+* Se desideri cambiare i colori, vai alla riga 48 di main.tex.
+* AltaCV utilizza [`fontawesome`](http://www.ctan.org/pkg/fontawesome) e [`academicons`](http://www.ctan.org/pkg/academicons); sono inclusi sia in TeX Live 2016 che in MikTeX 2.9.
+* Il caricamento di `academicons` è facoltativo: attivalo aggiungendo l'opzione `academicons` a `\documentclass`.
+* Ora può essere compilato con pdflatex, XeLaTeX e LuaLaTeX!
+* Tuttavia, se stai utilizzando `academicons`, _devi_ usare XeLaTeX o LuaLaTeX. Se il documento viene compilato ma le icone non appaiono nel PDF finale, prova a compilare con LuaLaTeX invece.
+* Negli esempi qui mostrati viene utilizzato il carattere [Lato](http://www.latofonts.com/lato-free-fonts/).
 
-## Donations [![Screen Grafico Entrate Uscite](https://github.com/EmanueleSeminara/images/blob/main/buy-me-a-coffee-logo-20x29.png?raw=true)](https://www.buymeacoffee.com/emanueleseminara)
-The code is here for you to be read, edited, modified, reused, for free, do whatever you want!
-However, if you'd like to offer me a coffee or a beer, then cheers! =D
+## Donazioni [![Screen Grafico Entrate Uscite](https://github.com/EmanueleSeminara/images/blob/main/buy-me-a-coffee-logo-20x29.png?raw=true)](https://www.buymeacoffee.com/emanueleseminara)
+Il codice è qui per essere letto, modificato, adattato, riutilizzato, gratuitamente, fai quello che vuoi!
+Tuttavia, se desideri offrirmi un caffè o una birra, allora cin cin! =D
 
 [![QR](https://github.com/EmanueleSeminara/images/blob/main/bmc_qr_200x200.png?raw=true)](https://www.buymeacoffee.com/emanueleseminara)
