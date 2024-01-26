@@ -1,25 +1,23 @@
-# [![emanueleseminara.it](https://github.com/EmanueleSeminara/images/blob/main/logo_e_20x20.png?raw=true)](https://emanueleseminara.it/) AltaCV - CV in LaTeX a Singola Pagina [![emanueleseminara.it](https://github.com/EmanueleSeminara/images/blob/main/logo_e_20x20.png?raw=true)](https://emanueleseminara.it/)
+# AltaCV - CV in LaTeX a Singola Pagina 
 
-v1.2 (01 Gennaio 2024) di Emanuele Seminara
+v1.0 (25 Gennaio 2024) di Calogero Gioacchino Corsello
 
-[Per la versione inglese Clicca Qui](https://github.com/EmanueleSeminara/LaTeX_resume/tree/ENG)
+[Per la versione inglese Clicca Qui](https://github.com/Kalos99/LaTeX_resume/tree/ENG)
 ## Introduzione
 
-Questo repository è pensato per te, amante di LaTeX, per darti un'idea interessante per un curriculum vitae.
-Puoi utilizzare questo modello per creare in pochi minuti il tuo curriculum personale.
+Questo repository è pensato per te che vuoi creare o aggiornare il tuo curriculum vitae in modo interessante e innovativo utilizzando LaTex.
+Tramite il modello e  seguendo i passaggi di seguito mostrati ti sarà possibile in pochi minuti creare il tuo curriculum personale. Buon divertimento!
 
-Di seguito troverai una selezione di passi da seguire per personalizzare il tuo curriculum, divertiti.
-Per qualsiasi domanda puoi scrivermi a [seminara.emanuele96@gmail.com](mailto:seminara.emanuele96@gmail.com).
+Per qualsiasi domanda puoi scrivermi a [calogerocorsello1999@gmail.com](mailto:calogerocorsello1999@gmail.com).
 
 Puoi trovarmi anche su:
 
-[![emanueleseminara.it](https://github.com/EmanueleSeminara/images/blob/main/LinkedIn_icon_2x20.png?raw=true)](https://www.linkedin.com/in/emanuele-seminara/)
-[![emanueleseminara.it](https://github.com/EmanueleSeminara/images/blob/main/Instagram_icon_20x20.png?raw=true)](https://www.instagram.com/emanuele_seminara/)
-[![emanueleseminara.it](https://github.com/EmanueleSeminara/images/blob/main/pulsante_e_20x20.png?raw=true)](https://www.instagram.com/emanuele_seminara/)
-[![emanueleseminara.it](https://github.com/EmanueleSeminara/images/blob/main/pulsante_tech_fusion_20x20.png?raw=true)](https://tech-fusion.it/)
+[![tech-fusiom.it](https://github.com/EmanueleSeminara/images/blob/main/LinkedIn_icon_2x20.png?raw=true)](https://www.linkedin.com/in/emanuele-seminara/)
+[![tech-fusion.it](https://github.com/EmanueleSeminara/images/blob/main/Instagram_icon_20x20.png?raw=true)](https://www.instagram.com/emanuele_seminara/)
+[![tech-fusion.it](https://github.com/EmanueleSeminara/images/blob/main/pulsante_tech_fusion_20x20.png?raw=true)](https://tech-fusion.it/)
 
 ## Aspetto del Curriculum
-![Screenshot 2023-10-07 alle 15 01 09](./Emanuele_Seminara_CV_ITA.jpg)
+![tech-fusion.it](./Calogero_Corsello_CV_ITA.jpg)
 
 ## Editor
 Nel caso tu non conosca LaTeX, non preoccuparti, puoi utilizzare [Overleaf](https://overleaf.com), un editor online gratuito e fantastico,
@@ -36,7 +34,7 @@ Per avere i file sul tuo PC, clona semplicemente questo repository:
 2) Clona il repository
 
    ```bash
-   git clone https://github.com/EmanueleSeminara/LaTeX_resume.git
+   git clone https://github.com/Kalos99/LaTeX_resume.git
    ```
 
 Dopo aver caricato i file, dovrai solo modificare il contenuto dei file per scrivere ciò che desideri nel tuo curriculum.
@@ -53,9 +51,3 @@ Dopo aver caricato i file, dovrai solo modificare il contenuto dei file per scri
 * Ora può essere compilato con pdflatex, XeLaTeX e LuaLaTeX!
 * Tuttavia, se stai utilizzando `academicons`, _devi_ usare XeLaTeX o LuaLaTeX. Se il documento viene compilato ma le icone non appaiono nel PDF finale, prova a compilare con LuaLaTeX invece.
 * Negli esempi qui mostrati viene utilizzato il carattere [Lato](http://www.latofonts.com/lato-free-fonts/).
-
-## Donazioni [![Screen Grafico Entrate Uscite](https://github.com/EmanueleSeminara/images/blob/main/buy-me-a-coffee-logo-20x29.png?raw=true)](https://www.buymeacoffee.com/emanueleseminara)
-Il codice è qui per essere letto, modificato, adattato, riutilizzato, gratuitamente, fai quello che vuoi!
-Tuttavia, se desideri offrirmi un caffè o una birra, allora cin cin! =D
-
-[![QR](https://github.com/EmanueleSeminara/images/blob/main/bmc-button_small2.png?raw=true)](https://www.buymeacoffee.com/emanueleseminara)
